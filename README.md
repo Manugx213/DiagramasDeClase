@@ -2,13 +2,13 @@
 
 | Tarea | Tema                | Archivo |
 |------:|---------------------|---------|
-| 1     | Diagrama de Clases  | [PDF](DiagramasDeClases_MGG) |
+| 1     | Diagrama de Clases  | [PDF](DiagramasDeClases_MGG.pdf) |
 
 ## 🎯 Objetivo
-Modelado de sistemas mediante diagramas de clases en UML.
+Modelado de sistemas mediante diagramas de clases.
 
 ## 🛠️ Herramientas
-UML · StarUML · Draw.io · PDF
+Draw.io · PDF
 
 ## 👤 Autor
 **Manuel García García**
